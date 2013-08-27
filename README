@@ -5,4 +5,6 @@ I just want to record the log of 'scp', but I can't find any way tool or method 
 
 The base-version is 'openssh-4.0p1'. The modifications are function-independent, so you can do the same changes in the other versions. 
 
+Please create the directory "/var/log/scp" in your OS, otherwise coredump maybe occurs.
+
 If you have any better way to solve it, please send email to xichy.dong#gmail.com or xichy#126.com.
