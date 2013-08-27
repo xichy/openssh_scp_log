@@ -1,7 +1,7 @@
 openssh_scp_log
 ===============
 
-I just want to record the log of 'scp', but I can't find any way tool or method by google. 
+I just want to record the log of 'scp', but I can't find any tool or method by google. 
 
 The base-version is 'openssh-4.0p1'. The modifications are function-independent, so you can do the same changes in the other versions. 
 
